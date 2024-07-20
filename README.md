@@ -26,7 +26,7 @@ SnapGuardian is a secure image transfer application developed using CustomTkinte
 
 2. Run the main script:
     ```sh
-    python main.py
+    python SnapGuardian.py
     ```
 
 ## About Us
