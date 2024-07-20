@@ -42,5 +42,3 @@ SnapGuardian provides a simple yet effective solution for secure image transfers
 
 ## License
 This project is licensed under the MIT License.
-
-hello bacho
